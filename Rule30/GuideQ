@@ -1,3 +1,3 @@
 The program that implements thread should run faster since there are more workers implementing the job.
-A common problem that threading can be applied are problems that envolve long and repititive process 
+A common problem where threading can be applied, are problems that envolve long and repititive process, 
 like searching such as looking for the biggest prime number between 1- 1000000.
